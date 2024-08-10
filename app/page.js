@@ -48,7 +48,7 @@ export default function Home() {
           textAlign='center'
         >
           <Typography variant='h6'>
-            Chat with Headstarter
+            Chat with a Headstarter AI Information Bot
           </Typography>
         </Box>
 
